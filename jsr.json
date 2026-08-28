@@ -13,8 +13,8 @@
   },
   "imports": {
     "@mikro-orm/core": "jsr:@mikro-orm/core@^7.0.0",
-    "@nestjs/common": "npm:@nestjs/common@^12.0.0",
-    "@nestjs/core": "npm:@nestjs/core@^12.0.0",
+    "@nestjs/common": "npm:@nestjs/common@*",
+    "@nestjs/core": "npm:@nestjs/core@*",
     "reflect-metadata": "npm:reflect-metadata@^0.2.0"
   }
 }
